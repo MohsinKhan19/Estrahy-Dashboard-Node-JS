@@ -1,0 +1,1 @@
+export const LOGIN_DATA_KEY = 'UserLoginDataKey'
